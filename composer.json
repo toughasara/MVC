@@ -1,0 +1,18 @@
+{
+    "name": "youcode/mvc",
+    "autoload": {
+        "psr-4": {
+            "Youcode\\Mvc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "tougha sara",
+            "email": "toughasarah@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.19",
+        "symfony/dotenv": "^7.2"
+    }
+}
